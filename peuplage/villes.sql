@@ -1,0 +1,10 @@
+INSERT INTO Ville (nomVille, pays) VALUES ('Paris', 'France');
+INSERT INTO Ville (nomVille, pays) VALUES ('Tokyo', 'Japon');
+INSERT INTO Ville (nomVille, pays) VALUES ('New Delhi', 'Inde');
+INSERT INTO Ville (nomVille, pays) VALUES ('Tanger', 'Maroc');
+INSERT INTO Ville (nomVille, pays) VALUES ('Londres', 'Angleterre');
+INSERT INTO Ville (nomVille, pays) VALUES ('Madrid', 'Espagne');
+INSERT INTO Ville (nomVille, pays) VALUES ('Amsterdam', 'Pays-Bas');
+INSERT INTO Ville (nomVille, pays) VALUES ('Moscou', 'Russie');
+INSERT INTO Ville (nomVille, pays) VALUES ('New York', 'Etats-Unis');
+INSERT INTO Ville (nomVille, pays) VALUES ('Rio de Janeiro', 'Bresil');
